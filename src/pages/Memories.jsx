@@ -32,7 +32,7 @@ const MEMORIES = [
   },
   {
     src: pic4,
-    caption: "You makes every place home",
+    caption: "You make every place home",
     date: "",
   },
   {
